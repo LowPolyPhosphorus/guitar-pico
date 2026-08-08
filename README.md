@@ -23,5 +23,5 @@ The controls on the controller all run on one of the following
 w.i.p. (just starting this project...)
 the following things will be found in a docs page or in this readme in the future: Wiring, Installation, Pairing, Known Issues, Supported Controllers
 
-## License
-i didnt add one yet...
+### License
+GuitarPico is Open Source under the MIT [License](/LICENSE/)
